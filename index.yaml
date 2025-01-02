@@ -9,6 +9,6 @@ entries:
     name: datascientest
     type: application
     urls:
-    - https://github.com/Redouane590/chart-k8s/datascientest-0.1.0.tgz
+    - https://github.com/Redouane590/chart-k8s/
     version: 0.1.0
 generated: "2025-01-02T20:30:45.677200567Z"
